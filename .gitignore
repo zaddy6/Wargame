@@ -126,5 +126,4 @@ dmypy.json
 
 .gitignore
 .idea/
-Read.MD
-game.py
+
